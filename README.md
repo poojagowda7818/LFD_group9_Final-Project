@@ -16,7 +16,7 @@ The experiments performed with respect to research question can be found in fold
 4. PLM.ipynb - related to research question 1.
 
 # Running instructions:
-1. Preferably run these scripts on colab
+1. Preferably run these scripts on colab by changing the runtime type to "GPU"
 2. There are several boolean conditions set accordingly to conduct the experiments,set it to True or False accordingly.
 
 
