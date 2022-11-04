@@ -7,6 +7,8 @@
 Research Questions:
 1. Which of models is best classification models?
 2. Does POS tagging of tweets improve SVM classification performance?
+
+
 The experiments performed with respect to research question can be found in folder "Experiment" and following files within are:
 1. Classic Model without Pos tag and with Postag - Classic baseline model, Also we perform experiments related to research question 2.
 2. Classic Model with custom features.ipynb - this model works with other different features with respect to research question 1.
