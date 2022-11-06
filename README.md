@@ -1,7 +1,6 @@
 # LFD_group9_Final-Project
 1. Clone the Github repository
-2. Then install the requirements.
-    - pip install -r requirements.txt
+2. Required versions of packages are mentioned in requirements.txt file.
 3. Go to this [Link]:"https://drive.google.com/drive/folders/1-RDNNy3P-DS8sK2TtC-98CSrGaybtKYZ?usp=share_link" to download and copy files inside the folders to the corresponding folders in the Github repository. For example, Glove pre-trained word-embedding, pre-trained models,processed data.
 # Experiments with respect to research question:
 Research Questions:
