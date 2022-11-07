@@ -4,8 +4,8 @@
 3. Go to this [Link]:"https://drive.google.com/drive/folders/1-RDNNy3P-DS8sK2TtC-98CSrGaybtKYZ?usp=share_link" to download and copy files inside the folders to the corresponding folders in the Github repository. For example, Glove pre-trained word-embedding, pre-trained models,processed data.
 # Experiments with respect to research question:
 Research Questions:
-1. Which of models is best classification models?
-2. Does POS tagging of tweets improve SVM classification performance?
+1. To create a model that performs as good as possible on classifying tweets as offensive or not?
+2. To evaluate if part of speech feature tagging helps in improving the Support Vector Machine (SVM) classification.
 
 
 The experiments performed with respect to research question can be found in folder "Experiment" and following files within are:
